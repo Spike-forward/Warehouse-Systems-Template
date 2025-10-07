@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "class-variance-authority": "^0.7.1",
+    "react": "^19.2.0"
+  },
+  "name": "warehouse-systems-template",
+  "version": "1.0.0",
+  "description": "system, with frontend &amp; backend server記錄入庫出庫的order,actual record,&amp; check inventory.  The records are per customer. Inventory with model and quantity. Each product model has a flag, need import/export permit or not (need to upload pdf/image if needed), and each in/out/record also attach multiple photos.",
+  "main": "index.js",
+  "devDependencies": {
+    "@types/react": "^19.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spike-forward/Warehouse-Systems-Template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Spike-forward/Warehouse-Systems-Template/issues"
+  },
+  "homepage": "https://github.com/Spike-forward/Warehouse-Systems-Template#readme"
+}
